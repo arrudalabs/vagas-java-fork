@@ -1,7 +1,8 @@
 ---
 name: "[ESTADO] Cargo na [NOME DA EMPRESA]"
 about: Resumo da vaga
-labels: 
+labels:
+ - job opportunity
 
 ---
 
